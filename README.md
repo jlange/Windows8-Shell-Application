@@ -2,7 +2,6 @@ Windows 8 Shell Application
 ===========================
 
 This Simple Windows 8 Store Application is the basis for many of my test apps.
-------------------------------------------------------------------------------
 
 It includes the following Javascript libraries:
 
