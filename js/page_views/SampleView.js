@@ -8,6 +8,7 @@
 /**************************************************************************
 * Name: SamplView
 * Type: Page View
+* Author: Jon Lange
 *
 * This view demonstrates a popup. Which can
 * have the same functionality as any other view.

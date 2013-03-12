@@ -7,6 +7,7 @@
 /*****************************************************************************
 * Name: SampleSubView
 * Type: Sub View
+* Author: Jon Lange
 *
 * This view demonstrates using a subview to 
 * encapsulate relevant functionality to a view.

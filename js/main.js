@@ -1,4 +1,4 @@
-// Author: Jon Lange <jlange@vretina.com>
+// Author: Jon Lange 
 // Filename: main.js
 
 // Require.js allows us to configure shortcut alias
